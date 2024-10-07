@@ -17,6 +17,6 @@
 - time: Halt code
 - nltk: Download and load a large list of words.
 - logging: Suppress the NLTK output.
-- requests: Retrieve **Words** from a dictionary.
+- requests: Retrieve **words** from a dictionary.
 - pyqrcode: Generate a fully functional QR codes.
 - pypng: Save a newly generated QR code as a PNG file to the current available directory.
