@@ -6,6 +6,7 @@
 - pyqrcode : **pip install pyqrcode** : Allows for the generation of QR codes, providing a simple interface to create and save QR codes as SVG, PNG, or other image formats.
 - nltk : **pip install nltk** : NLTK (Natural Language Toolkit) library is a powerful platform for working with human language data, offering tools for text processing, linguistic analysis, and natural language processing (NLP).
 - yt_dlp : **pip install yt_dlp** : Allows for the downloading of videos from various video platforms, including YouTube.
+- pyperclip : **pip install pyperclip** : Allows for handling of copying text to the user's clipboard. 
 
 ## Pre-Installed Python Libraries
 
@@ -33,3 +34,4 @@
 - platform: Used to determine the current operating system so that the appropriate command can be executed.
 - yt_dlp: Download the specified video and merge the video and audio streams based on the chosen format.
 - tkinter: Graphic User Interfaces (GUI) such as checkbox/toggles, labels, textboxes, etc.
+- pyperclip: Copying text to the user's clipboard. 
