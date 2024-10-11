@@ -1,14 +1,11 @@
 # Required Python Libraries
 
-- [Python](https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe)
-- nltk : **pip install nltk** : NLTK (Natural Language Toolkit) library is a powerful platform for working with human language data, offering tools for text processing, linguistic analysis, and natural language processing (NLP).
-- logging : **pip install logging** : Flexible framework for tracking and recording log messages, monitoring, and troubleshooting.
+- [Python]([https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe](https://www.python.org/downloads/))
 - requests : **pip install requests** : Simplifies making HTTP requests, allowing developers to send and receive data from web services with easy-to-use functions for GET, POST, and other HTTP methods.
+- PIL (Pillow) : **pip install Pillow** : Imaging library that adds support for opening, manipulating, and saving various image file formats, making it easier to work with images.
 - pyqrcode : **pip install pyqrcode** : Allows for the generation of QR codes, providing a simple interface to create and save QR codes as SVG, PNG, or other image formats.
-- pypng : **pip install pypng** : Pure Python implementation for reading and writing PNG files, and allowing the ability to create and manipulate PNG images easily.
-- PIL (pillow) : **pip install Pillow** : Imaging library that adds support for opening, manipulating, and saving various image file formats, making it easier to work with images.
+- nltk : **pip install nltk** : NLTK (Natural Language Toolkit) library is a powerful platform for working with human language data, offering tools for text processing, linguistic analysis, and natural language processing (NLP).
 - yt_dlp : **pip install yt_dlp** : Allows for the downloading of videos from various video platforms, including YouTube.
-- tkinter : **pip install tk** : Allows for the easiest creation of Graphic User Interfaces (GUI)
 
 ## Pre-Installed Python Libraries
 
@@ -17,6 +14,9 @@
 - time: Provides functions for working with time, including retrieving the current time, pausing execution, and formatting time data.
 - subprocess: Allows to spawn new processes, connect to their input/output/error pipes, and obtain their return codes.
 - platform: Access various platform-specific parameters and functions to identity the operating system the script is operating on.
+- tkinter : **pip install tk** : Allows for the easiest creation of Graphic User Interfaces (GUI)
+- pypng : **pip install pypng** : Pure Python implementation for reading and writing PNG files, and allowing the ability to create and manipulate PNG images easily.
+- logging : **pip install logging** : Flexible framework for tracking and recording log messages, monitoring, and troubleshooting.
 
 ## Library Usage
 
