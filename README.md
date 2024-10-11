@@ -1,6 +1,6 @@
 # Required Python Libraries
 
-- [Python]([https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe](https://www.python.org/downloads/))
+- [Python]([https://www.python.org/))
 - requests : **pip install requests** : Simplifies making HTTP requests, allowing developers to send and receive data from web services with easy-to-use functions for GET, POST, and other HTTP methods.
 - PIL (Pillow) : **pip install Pillow** : Imaging library that adds support for opening, manipulating, and saving various image file formats, making it easier to work with images.
 - pyqrcode : **pip install pyqrcode** : Allows for the generation of QR codes, providing a simple interface to create and save QR codes as SVG, PNG, or other image formats.
