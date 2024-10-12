@@ -6,7 +6,9 @@
 - pyqrcode : **pip install pyqrcode** : Allows for the generation of QR codes, providing a simple interface to create and save QR codes as SVG, PNG, or other image formats.
 - nltk : **pip install nltk** : NLTK (Natural Language Toolkit) library is a powerful platform for working with human language data, offering tools for text processing, linguistic analysis, and natural language processing (NLP).
 - yt_dlp : **pip install yt_dlp** : Allows for the downloading of videos from various video platforms, including YouTube.
-- pyperclip : **pip install pyperclip** : Allows for handling of copying text to the user's clipboard. 
+- pyperclip : **pip install pyperclip** : Allows for handling of copying text to the user's clipboard.
+- gtts (Google Text-to-Speech) : **pip install gtts** : a Python library and CLI tool to interface with Google Translate's text-to-speech API.
+- pygame : **pip install pygame** : Set of Python modules designed for writing games. This allows the creation of fully featured games and multimedia programs in the python language.
 
 ## Pre-Installed Python Libraries
 
@@ -35,3 +37,5 @@
 - yt_dlp: Download the specified video and merge the video and audio streams based on the chosen format.
 - tkinter: Graphic User Interfaces (GUI) such as checkbox/toggles, labels, textboxes, etc.
 - pyperclip: Copying text to the user's clipboard. 
+- gtts (Google Text-to-Speech): Convert simple text strings to robotic words/pronounications using Google's Text-to-Speech API.
+- pygame: Although its mainly used in the development of games in the python language, it contains a simpl and reliable audio playback system that can be used for playing sounds files, including .mp3 files.
