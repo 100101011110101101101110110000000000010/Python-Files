@@ -8,6 +8,7 @@
 - yt_dlp : **pip install yt_dlp** : Allows for the downloading of videos from various video platforms, including YouTube.
 - pyperclip : **pip install pyperclip** : Allows for handling of copying text to the user's clipboard.
 - gtts (Google Text-to-Speech) : **pip install gtts** : a Python library and CLI tool to interface with Google Translate's text-to-speech API.
+- pygame : **pip install pygame** : N/A
 
 ## Pre-Installed Python Libraries
 
